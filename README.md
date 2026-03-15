@@ -14,7 +14,9 @@ This repository contains my solutions to LeetCode problems using Python.
 | # | Problem | Difficulty | Topic |
 |---|--------|-----------|------|
 | 1 | Two Sum | Easy | Array |
+| 58 | Length of Last Word | Easy | Strings |
 | 367 | Valid Perfect Square | Easy | Binary Search |
+
 
 ## Language
 Python
