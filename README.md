@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 1 | Two Sum | Easy | Array |
 | 58 | Length of Last Word | Easy | Strings |
 | 088 | Merge Sorted Array | Easy | Array |
+| 136 | Single Number | Easy | Array |
 | 367 | Valid Perfect Square | Easy | Binary Search |
 
 
