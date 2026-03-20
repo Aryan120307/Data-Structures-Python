@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 169 | Majority Element | Easy | Arrays |
 | 367 | Valid Perfect Square | Easy | Binary Search |
 | 977 | Squares of a Sorted Array | Easy | Arrays |
+| 2095 | Delete Middle Node of Linked List | Medium | Linked List |
 
 
 ## Language
