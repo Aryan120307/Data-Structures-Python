@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 088 | Merge Sorted Array | Easy | Array |
 | 136 | Single Number | Easy | Array |
 | 169 | Majority Element | Easy | Arrays |
+| 217 | Contains Duplicate | Easy | Arrays |
 | 367 | Valid Perfect Square | Easy | Binary Search |
 | 977 | Squares of a Sorted Array | Easy | Arrays |
 | 2095 | Delete Middle Node of Linked List | Medium | Linked List |
