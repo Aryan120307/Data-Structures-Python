@@ -1,0 +1,100 @@
+"""
+LeetCode 33 - Search in Rotated Sorted Array
+Difficulty: Medium
+Topic: Binary Search
+
+Problem Link:
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+====================================================
+Approach 1: Linear Search (Brute Force)
+Time Complexity: O(n)
+Space Complexity: O(1)
+====================================================
+
+class Solution:
+    def search(self, nums, target):
+        for i in range(len(nums)):
+            if nums[i] == target:
+                return i
+        return -1
+
+
+====================================================
+Approach 2: Find Pivot + Binary Search
+Time Complexity: O(log n)
+Space Complexity: O(1)
+====================================================
+
+class Solution:
+    def search(self, nums, target):
+        n = len(nums)
+
+        # Find pivot (smallest element)
+        left, right = 0, n - 1
+
+        while left < right:
+            mid = (left + right) // 2
+
+            if nums[mid] > nums[right]:
+                left = mid + 1
+            else:
+                right = mid
+
+        pivot = left
+
+        # Decide which half to search
+        left, right = 0, n - 1
+
+        if nums[pivot] <= target <= nums[right]:
+            left = pivot
+        else:
+            right = pivot - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return -1
+
+
+====================================================
+Approach 3: Single Binary Search (Optimal)
+Time Complexity: O(log n)
+Space Complexity: O(1)
+====================================================
+"""
+
+class Solution:
+    def search(self, nums, target):
+        low, high = 0, len(nums) - 1
+
+        while low <= high:
+            mid = (low + high) // 2
+
+            if nums[mid] == target:
+                return mid
+
+            # Left half is sorted
+            if nums[low] <= nums[mid]:
+
+                if nums[low] <= target < nums[mid]:
+                    high = mid - 1
+                else:
+                    low = mid + 1
+
+            # Right half is sorted
+            else:
+
+                if nums[mid] < target <= nums[high]:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+        return -1
