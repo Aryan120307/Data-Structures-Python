@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems using Python.
 |---|--------|-----------|------|
 | 1 | Two Sum | Easy | Array |
 | 4 | Median of Two Sorted Arrays | Hard | Arrays |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search |
 | 35 | Search Insert Position | Easy | Binary Search |
 | 58 | Length of Last Word | Easy | Strings |
 | 73 | Set Matrix Zeroes | Medium | Arrays |
