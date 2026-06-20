@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 35 | Search Insert Position | Easy | Binary Search |
 | 58 | Length of Last Word | Easy | Strings |
 | 73 | Set Matrix Zeroes | Medium | Arrays |
+| 81 | Search in Rotated Sorted Array II | Medium | Binary Search |
 | 088 | Merge Sorted Array | Easy | Array |
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays |
 | 136 | Single Number | Easy | Array |
