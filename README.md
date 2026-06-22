@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 349 | Intersection of Two Arrays | Easy | Arrays |
 | 350 | Intersection of Two Arrays II | Easy | Arrays |
 | 367 | Valid Perfect Square | Easy | Binary Search |
+| 540 | Single Element in a Sorted Array | Medium | Binary Search |
 | 771 | Jewels and Stones | Easy | Strings |
 | 867 | Transpose Matrix | Easy | Arrays |
 | 977 | Squares of a Sorted Array | Easy | Arrays |
