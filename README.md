@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays |
 | 136 | Single Number | Easy | Array |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
+| 162 | Find Peak Element | Medium | Binary Search |
 | 169 | Majority Element | Easy | Arrays |
 | 189 | Rotate Array | Medium | Arrays |
 | 217 | Contains Duplicate | Easy | Arrays |
