@@ -49,4 +49,4 @@ This repository contains my solutions to LeetCode problems using Python.
 Python
 
 ## Goal
-Solve 50+ LeetCode problems and master Data Structures & Algorithms.
+Solve 100+ LeetCode problems and master Data Structures & Algorithms.
