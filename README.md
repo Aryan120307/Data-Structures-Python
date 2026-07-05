@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 771 | Jewels and Stones | Easy | Strings |
 | 867 | Transpose Matrix | Easy | Arrays |
 | 875 | Koko Eating Bananas | Medium | Binary Search |
+| 876 | Middle of the Linked List | Easy | Linked List |
 | 977 | Squares of a Sorted Array | Easy | Arrays |
 | 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search |
