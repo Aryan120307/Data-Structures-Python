@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 81 | Search in Rotated Sorted Array II | Medium | Binary Search |
 | 088 | Merge Sorted Array | Easy | Array |
 | 121 | Best Time to Buy and Sell Stock | Easy | Arrays |
+| 141 | Linked List Cycle | Easy | Linked List |
 | 136 | Single Number | Easy | Array |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
 | 162 | Find Peak Element | Medium | Binary Search |
