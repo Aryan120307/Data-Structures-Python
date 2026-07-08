@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 189 | Rotate Array | Medium | Arrays |
 | 217 | Contains Duplicate | Easy | Arrays |
 | 219 | Contains Duplicate II | Easy | Arrays |
+| 328 | Odd Even Linked List | Medium | Linked List |
 | 349 | Intersection of Two Arrays | Easy | Arrays |
 | 350 | Intersection of Two Arrays II | Easy | Arrays |
 | 367 | Valid Perfect Square | Easy | Binary Search |
