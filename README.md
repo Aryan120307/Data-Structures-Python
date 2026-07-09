@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems using Python.
 |---|--------|-----------|------|
 | 1 | Two Sum | Easy | Array |
 | 4 | Median of Two Sorted Arrays | Hard | Arrays |
+| 19 | Remove Nth Node From End of List | Medium | Linked List |
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search |
 | 35 | Search Insert Position | Easy | Binary Search |
