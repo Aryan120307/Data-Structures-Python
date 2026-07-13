@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 148 | Sort List | Medium | Linked List |
 | 136 | Single Number | Easy | Array |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search |
+| 160 | Intersection of Two Linked Lists | Easy | Linked List |
 | 162 | Find Peak Element | Medium | Binary Search |
 | 169 | Majority Element | Easy | Arrays |
 | 189 | Rotate Array | Medium | Arrays |
