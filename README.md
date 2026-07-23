@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 160 | Intersection of Two Linked Lists | Easy | Linked List |
 | 162 | Find Peak Element | Medium | Binary Search |
 | 169 | Majority Element | Easy | Arrays |
+| 182 | Duplicate Emails | Easy | Pandas |
 | 189 | Rotate Array | Medium | Arrays |
 | 217 | Contains Duplicate | Easy | Arrays |
 | 219 | Contains Duplicate II | Easy | Arrays |
