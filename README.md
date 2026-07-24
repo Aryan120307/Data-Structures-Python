@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 169 | Majority Element | Easy | Arrays |
 | 182 | Duplicate Emails | Easy | Pandas |
 | 189 | Rotate Array | Medium | Arrays |
+| 196 | Delete Duplicate Emails | Easy | Pandas |
 | 217 | Contains Duplicate | Easy | Arrays |
 | 219 | Contains Duplicate II | Easy | Arrays |
 | 328 | Odd Even Linked List | Medium | Linked List |
