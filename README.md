@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 410 | Split Array Largest Sum | Hard | Binary Search |
 | 455 | Assign Cookies | Easy | Greedy |
 | 540 | Single Element in a Sorted Array | Medium | Binary Search |
+| 678 | Valid Parenthesis String | Medium | Greedy |
 | 771 | Jewels and Stones | Easy | Strings |
 | 860 | Lemonade Change | Easy | Greedy |
 | 867 | Transpose Matrix | Easy | Arrays |
@@ -55,6 +56,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 2078 | Two Furthest Houses With Different Colors | Easy | Arrays |
 | 2095 | Delete Middle Node of Linked List | Medium | Linked List |
 | 2553 | Separate the Digits in an Array | Easy | Arrays |
+| 2882 | Drop Duplicate Rows | Easy | Pandas |
 | 2884 | Modify Columns | Easy | Pandas |
 
 
