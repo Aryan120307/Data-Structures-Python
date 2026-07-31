@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search |
 | 35 | Search Insert Position | Easy | Binary Search |
+| 55 | Jump Game | Medium | Greedy |
 | 58 | Length of Last Word | Easy | Strings |
 | 73 | Set Matrix Zeroes | Medium | Arrays |
 | 81 | Search in Rotated Sorted Array II | Medium | Binary Search |
