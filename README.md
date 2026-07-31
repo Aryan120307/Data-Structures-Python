@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 2095 | Delete Middle Node of Linked List | Medium | Linked List |
 | 2553 | Separate the Digits in an Array | Easy | Arrays |
 | 2882 | Drop Duplicate Rows | Easy | Pandas |
+| 2883 | Drop Missing Data | Easy | Pandas |
 | 2884 | Modify Columns | Easy | Pandas |
 
 
