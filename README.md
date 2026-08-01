@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 2882 | Drop Duplicate Rows | Easy | Pandas |
 | 2883 | Drop Missing Data | Easy | Pandas |
 | 2884 | Modify Columns | Easy | Pandas |
+| 2885 | Modify Salary Column | Easy | Pandas |
 
 
 ## Language
