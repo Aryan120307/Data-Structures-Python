@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 2883 | Drop Missing Data | Easy | Pandas |
 | 2884 | Modify Columns | Easy | Pandas |
 | 2885 | Modify Salary Column | Easy | Pandas |
+| 2885 | Rename Columns | Easy | Pandas |
 
 
 ## Language
