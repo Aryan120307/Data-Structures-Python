@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 410 | Split Array Largest Sum | Hard | Binary Search |
 | 455 | Assign Cookies | Easy | Greedy |
 | 540 | Single Element in a Sorted Array | Medium | Binary Search |
+| 595 | Big Countries | Easy | Pandas |
 | 678 | Valid Parenthesis String | Medium | Greedy |
 | 771 | Jewels and Stones | Easy | Strings |
 | 860 | Lemonade Change | Easy | Greedy |
