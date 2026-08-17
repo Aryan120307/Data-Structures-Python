@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 876 | Middle of the Linked List | Easy | Linked List |
 | 977 | Squares of a Sorted Array | Easy | Arrays |
 | 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search |
+| 1148 | Article Views I | Easy | Filtering + Duplicates + Sorting |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search |
 | 1581 | Customer Who Never Orders | Easy | Filtering + isin() |
 | 2078 | Two Furthest Houses With Different Colors | Easy | Arrays |
