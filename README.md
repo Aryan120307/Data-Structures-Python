@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems using Python.
 | 1148 | Article Views I | Easy | Filtering + Duplicates + Sorting |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search |
 | 1581 | Customer Who Never Orders | Easy | Filtering + isin() |
+| 1683 | Invalid Tweets | Easy | String Operations + Filtering | [Solution](./1683_invalid_tweets.py) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | Arrays |
 | 2095 | Delete Middle Node of Linked List | Medium | Linked List |
 | 2553 | Separate the Digits in an Array | Easy | Arrays |
